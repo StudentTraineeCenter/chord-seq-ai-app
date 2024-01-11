@@ -6,6 +6,8 @@ The ChordSeqAI Web App is a dynamic and user-friendly interface for interactions
 
 ![App screenshot](./public/screenshot.jpg)
 
+**Note: development continues in a [new repository](https://github.com/PetrIvan/chord-seq-ai-app), as this version is associated with the graduate project.**
+
 ## Getting Started
 
 ### Prerequisites
